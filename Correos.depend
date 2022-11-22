@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1653860346 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\main.cpp
+	<iostream>
+	<fstream>
+	"Correos.h"
+	"Correo.h"
+	<time.h>
+	"arbol.h"
+
+1653857173 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\correos.cpp
+	"Correos.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<sstream>
+	<vector>
+	<string.h>
+	<cstdlib>
+
+1653857199 c:\users\misa_\onedrive\escritorio\sedd2\correos\correos.h
+	<fstream>
+	<iostream>
+	"Correo.h"
+	"arbol.h"
+
+1652328793 c:\users\misa_\onedrive\escritorio\sedd2\correos\include\correo.h
+	<fstream>
+	<iostream>
+
+1652210005 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\src\correo.cpp
+	"Correo.h"
+
+1653860408 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\arbol.cpp
+	"Arbol.h"
+	"Nodo.h"
+	<iostream>
+	"Correos.h"
+
+1653860236 c:\users\misa_\onedrive\escritorio\sedd2\correos\arbol.h
+	"Nodo.h"
+
+1653790145 c:\users\misa_\onedrive\escritorio\sedd2\correos\nodo.h
+	"NodoSec.h"
+
+1653795922 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\nodo.cpp
+	"Nodo.h"
+
+1653790091 c:\users\misa_\onedrive\escritorio\sedd2\correos\nodosec.h
+
+1653788740 source:c:\users\misa_\onedrive\escritorio\sedd2\correos\nodosec.cpp
+	"NodoSec.h"
+
+1653860646 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\arbol.cpp
+	"Arbol.h"
+	"Nodo.h"
+	<iostream>
+	"Correos.h"
+
+1653860238 c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\arbol.h
+	"Nodo.h"
+
+1653790146 c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\nodo.h
+	"NodoSec.h"
+
+1653790092 c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\nodosec.h
+
+1653857200 c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\correos.h
+	<fstream>
+	<iostream>
+	"Correo.h"
+	"arbol.h"
+
+1652328794 c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\include\correo.h
+	<fstream>
+	<iostream>
+
+1653857174 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\correos.cpp
+	"Correos.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<sstream>
+	<vector>
+	<string.h>
+	<cstdlib>
+
+1653795924 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\nodo.cpp
+	"Nodo.h"
+
+1653788742 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\nodosec.cpp
+	"NodoSec.h"
+
+1652210006 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\src\correo.cpp
+	"Correo.h"
+
+1662500570 source:c:\users\misa_\onedrive\escritorio\5to semestre\seguridad\correos\main.cpp
+	<iostream>
+	<fstream>
+	"Correos.h"
+	"Correo.h"
+	<time.h>
+	"arbol.h"
+
